@@ -1,0 +1,14 @@
+{
+  "name": "github-iac",
+  "main": "index.ts",
+  "devDependencies": {
+    "@types/node": "^18"
+  },
+  "dependencies": {
+    "@pulumi/github": "^5.21.0",
+    "@pulumi/pulumi": "^3.89.0"
+  },
+  "engines": {
+    "node": ">=18.0.0 <19"
+  }
+}
